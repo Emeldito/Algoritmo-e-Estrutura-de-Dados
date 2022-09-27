@@ -4,9 +4,16 @@
  */
 package com.techcoreschool.teste;
 import javax.swing.JOptionPane;
-/**
+
+/*
+ * Função : O custo de compra de um carro, é a soma do preço do carro com
+ * o custo dos impostos (aplicados ao preço do carro). Supondo que o preço
+ *  do carro seja 1,500,000,00Mt e que os impostos custam 25% do preço do 
+ *  carro, faça um algoritmo que leia o preço do carro e determine o preço
+ *  final do automóvel (O custo de compra de um carro).
  *
- * @author ecovany
+ * @author Emeldito Covane
+ * Data: 27/09/2022
  */
 public class custodocarro {
     
@@ -27,5 +34,4 @@ public class custodocarro {
         
     }
 }
-
 
