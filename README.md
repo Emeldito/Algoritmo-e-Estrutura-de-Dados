@@ -70,9 +70,9 @@ The MIT License (MIT) - 2022 Emeldito
 [10.3]: /Java/prestacao.java
 [10.4]: /Javascript/prestacao.js
 [11]:   /Visualg/condicionalSe.alg
-[11.2]: /C/condicionalSe.c
-[11.3]: /Java/condicionalSe.java
-[11.4]: /Javascript/condicionalSe.js
+[11.2]: /C/condicaoSe.c
+[11.3]: /Java/condicaoSe.java
+[11.4]: /Javascript/condicaoSe.js
 [12]:   /Visualg/avaliacao-de-prova.alg
 [12.2]: /C/avaliacao-de-prova.c
 [12.3]: /Java/avaliacao-de-prova.java
