@@ -31,5 +31,4 @@ int main() {
     default:
         printf("\nOpcao invalida!!!\n");
     }
-   // printf("Valor convertido: %.2f\n", valorConvertido);
 }
