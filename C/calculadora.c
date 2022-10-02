@@ -1,6 +1,19 @@
 #include <stdio.h>
 #include <stdlib.h>
+// Disciplina   : [Introdução a algoritmo e programação]
+// Descrição   : Calculadora
+// Autor(a)    : Emeldito Covane
+// Data actual  : 02/10/2022
 
+/*
+Menu do usuário:
+1 – Somar
+2 – Subtrair
+3 – Multiplicar
+4 – Dividir
+0 – Sair
+
+*/
 int main() {
     int opcao, num1, num2;
 
@@ -38,3 +51,8 @@ int main() {
         }
     } while(opcao != 0);
 }
+
+// Uma estrutura do tipo switch deve ser utilizada para realizar cada operação em um case. 
+// Após a escolha da operação, dois valores devem ser pedidos ao usuário para realizar a operação escolhida. 
+// Se a operação escolhida for a 4 o dividendo não pode ser zero, um novo valor deve ser solicitado. 
+// O programa deve funcionar até que o usuário escolha a opção 0 (opção de saída).
