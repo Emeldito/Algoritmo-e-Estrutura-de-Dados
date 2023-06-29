@@ -1,4 +1,4 @@
-# Estudo de algoritmos e programação
+# Estudo de Algoritmos e Programação
 
 Algoritmos em C, Java, Pascal e Javascript como estudo de logica de programação e estruturas de dados.
 
